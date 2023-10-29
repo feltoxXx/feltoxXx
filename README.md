@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, my name is Luis Lagardera 👋
+
+- 🔭 I’m currently working on be a better person
+- 🌱 I’m currently learning Data Science and Artificial Intelligence at Platzi
+- ⚡ Fun fact: Data Science and Artificial Intelligence are transforming a wide variety of fields and sectors, from healthcare and the automotive industry to music and art.
 
 <!--
 **feltoxXx/feltoxXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
